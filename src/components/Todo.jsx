@@ -6,6 +6,12 @@ const Todo = () => {
       
       {/* here we will add title */}
 
+      <div className='flex items-center mt-7 gap'>
+
+        <h1 className='text-3xl font-semibold'>Todo List</h1>
+
+      </div>
+
 
 
 
